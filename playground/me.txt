@@ -1,0 +1,6 @@
+{{#ZaidMujahid}}
+Name: Mohammed Zaid
+Skills: Reactjs, Nodejs, MongoDB, MySQL, Java, HTML, CSS, JS, Next.js, AWS, Tailwind CSS
+Email: zaidmujahid274@gmail.com
+{{/ZaidMujahid}}
+
